@@ -30,7 +30,6 @@ These features make LangChain a powerful tool for creating and managing effectiv
 
 4. Examples of using LangChain to create different types of prompts?<br>
 LangChain simplifies crafting prompts for LLMs. Here are some highlights:
-
 <br>**Templates:** Define structures with placeholders for dynamic info.
 <br>**Dynamic Inputs:** Adapt prompts with real-time data.
 <br>**Few-Shot Learning:** Guide the LLM with a few examples.

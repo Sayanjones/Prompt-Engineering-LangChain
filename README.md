@@ -21,7 +21,6 @@ A prompt evaluator that allows you to evaluate the performance of your prompts
 
 3. How to use LangChain to create and manage prompts?<br>
 LangChain simplifies crafting prompts for LLMs. It offers:
-
 <br>**Prompt Templates: Define structured prompts with placeholders for dynamic input.**
 <br>**Dynamic Inputs: Inject data into prompts for adaptability.**
 <br>**Few-Shot Learning: Guide the LLM with a few example outputs.**
